@@ -9,3 +9,13 @@ C:\Users\TOSHIBA\source\repos\CalculadoraBasica\CalculadoraBasica\obj\Debug\netc
 C:\Users\TOSHIBA\source\repos\CalculadoraBasica\CalculadoraBasica\obj\Debug\netcoreapp2.1\CalculadoraBasica.AssemblyInfo.cs
 C:\Users\TOSHIBA\source\repos\CalculadoraBasica\CalculadoraBasica\obj\Debug\netcoreapp2.1\CalculadoraBasica.dll
 C:\Users\TOSHIBA\source\repos\CalculadoraBasica\CalculadoraBasica\obj\Debug\netcoreapp2.1\CalculadoraBasica.pdb
+D:\GitHub\calculadora\CalculadoraBasica\bin\Debug\netcoreapp2.1\CalculadoraBasica.deps.json
+D:\GitHub\calculadora\CalculadoraBasica\bin\Debug\netcoreapp2.1\CalculadoraBasica.runtimeconfig.json
+D:\GitHub\calculadora\CalculadoraBasica\bin\Debug\netcoreapp2.1\CalculadoraBasica.runtimeconfig.dev.json
+D:\GitHub\calculadora\CalculadoraBasica\bin\Debug\netcoreapp2.1\CalculadoraBasica.dll
+D:\GitHub\calculadora\CalculadoraBasica\bin\Debug\netcoreapp2.1\CalculadoraBasica.pdb
+D:\GitHub\calculadora\CalculadoraBasica\obj\Debug\netcoreapp2.1\CalculadoraBasica.csprojAssemblyReference.cache
+D:\GitHub\calculadora\CalculadoraBasica\obj\Debug\netcoreapp2.1\CalculadoraBasica.AssemblyInfoInputs.cache
+D:\GitHub\calculadora\CalculadoraBasica\obj\Debug\netcoreapp2.1\CalculadoraBasica.AssemblyInfo.cs
+D:\GitHub\calculadora\CalculadoraBasica\obj\Debug\netcoreapp2.1\CalculadoraBasica.dll
+D:\GitHub\calculadora\CalculadoraBasica\obj\Debug\netcoreapp2.1\CalculadoraBasica.pdb
