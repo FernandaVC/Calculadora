@@ -1,0 +1,11 @@
+C:\Users\TOSHIBA\source\repos\CalculadoraBasica\CalculadoraBasica\bin\Debug\netcoreapp2.1\CalculadoraBasica.deps.json
+C:\Users\TOSHIBA\source\repos\CalculadoraBasica\CalculadoraBasica\bin\Debug\netcoreapp2.1\CalculadoraBasica.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\CalculadoraBasica\CalculadoraBasica\bin\Debug\netcoreapp2.1\CalculadoraBasica.runtimeconfig.dev.json
+C:\Users\TOSHIBA\source\repos\CalculadoraBasica\CalculadoraBasica\bin\Debug\netcoreapp2.1\CalculadoraBasica.dll
+C:\Users\TOSHIBA\source\repos\CalculadoraBasica\CalculadoraBasica\bin\Debug\netcoreapp2.1\CalculadoraBasica.pdb
+C:\Users\TOSHIBA\source\repos\CalculadoraBasica\CalculadoraBasica\obj\Debug\netcoreapp2.1\CalculadoraBasica.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\CalculadoraBasica\CalculadoraBasica\obj\Debug\netcoreapp2.1\CalculadoraBasica.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\CalculadoraBasica\CalculadoraBasica\obj\Debug\netcoreapp2.1\CalculadoraBasica.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\CalculadoraBasica\CalculadoraBasica\obj\Debug\netcoreapp2.1\CalculadoraBasica.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\CalculadoraBasica\CalculadoraBasica\obj\Debug\netcoreapp2.1\CalculadoraBasica.dll
+C:\Users\TOSHIBA\source\repos\CalculadoraBasica\CalculadoraBasica\obj\Debug\netcoreapp2.1\CalculadoraBasica.pdb
